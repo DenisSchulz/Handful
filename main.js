@@ -38,7 +38,6 @@ function draw()
 
    innerCircle.draw();
 
-
 }
 
 function initSkills()
